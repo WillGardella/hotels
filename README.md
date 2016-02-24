@@ -1,1 +1,3 @@
-# hotels
+# Hotel Sample Dataset
+
+Includes reviews
